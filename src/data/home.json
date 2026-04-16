@@ -1,0 +1,60 @@
+{
+  "meta": {
+    "title": "SONYTV — Bem-vindo ao SONYTV",
+    "description": "Sua fonte de análises e dicas sobre tecnologia."
+  },
+  "hero": {
+    "title": "Bem-vindo ao SONYTV",
+    "subtitle": "Sua fonte de análises e dicas sobre tecnologia.",
+    "btnText": "Descubra Mais",
+    "bgImage": "/images/hero.jpg",
+    "btnLink": "/blog"
+  },
+  "features": {
+    "title": "Nossos Destaques",
+    "items": [
+      {
+        "icon": "🔍",
+        "title": "Análises Aprofundadas",
+        "desc": "Explore análises detalhadas dos gadgets mais recentes e inovadores do mercado."
+      },
+      {
+        "icon": "💡",
+        "title": "Dicas e Truques",
+        "desc": "Aprenda como otimizar o uso dos seus dispositivos com nossas dicas práticas."
+      },
+      {
+        "icon": "🛠️",
+        "title": "Guias de Uso",
+        "desc": "Navegue por guias completos sobre como tirar o melhor proveito de seus gadgets."
+      }
+    ]
+  },
+  "about": {
+    "title": "Sobre Nós",
+    "desc": "No SONYTV, temos o compromisso de fornecer análises imparciais e relevantes, trazendo ao leitor informação valiosa sobre os melhores gadgets disponíveis. Nossa paixão pela tecnologia nos motiva a explorar cada detalhe dos dispositivos, garantindo que você sempre esteja bem-informado.",
+    "stats": [
+      {
+        "value": "500+",
+        "label": "Produtos Analisados"
+      },
+      {
+        "value": "1.000+",
+        "label": "Leitores Satisfeitos"
+      },
+      {
+        "value": "50+",
+        "label": "Dicas Publicadas"
+      }
+    ],
+    "image": "/images/about.jpg",
+    "btnText": "Saiba Mais",
+    "btnLink": "/sobre"
+  },
+  "posts": {
+    "title": "Últimos Artigos",
+    "limit": 3,
+    "btnText": "Ver Blog",
+    "btnLink": "/blog"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "name": "SONYTV",
+  "slug": "sonytv.com.br",
+  "description": "Nosso objetivo é fornecer a nossos leitores análises aprofundadas e imparciais dos últimos e maiores gadgets do mercado, bem como dicas e truques para tirar o máximo proveito de seus dispositivos tecnológicos. Fique atento para obter mais conteúdo de nós!",
+  "url": "https://sonytv.com.br",
+  "niche": "Tecnologia",
+  "keywords": "Nosso objetivo e fornecer a nossos leitores analises aprofundadas e imparciais dos",
+  "email": "contato@sonytv.com.br",
+  "palette": "rose",
+  "colors": {
+    "primary": "#e11d48",
+    "accent": "#9f1239",
+    "dark": "#4c0519"
+  },
+  "headerContrast": "light",
+  "font": "outfit",
+  "fontFamily": "'Outfit', sans-serif",
+  "fontUrl": "https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700;800&display=swap",
+  "components": {
+    "header": "Header-J",
+    "hero": "Hero-G",
+    "features": "Features-A",
+    "about": "About-F",
+    "posts": "Posts-E",
+    "footer": "Footer-I",
+    "sobre": "Sobre-C",
+    "contato": "Contato-E"
+  },
+  "menu": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Blog",
+      "href": "/blog"
+    },
+    {
+      "label": "Sobre",
+      "href": "/sobre"
+    },
+    {
+      "label": "Contato",
+      "href": "/contato"
+    }
+  ],
+  "social": {
+    "instagram": "",
+    "facebook": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

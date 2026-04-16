@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "title": "Sobre Nós",
+    "description": "Conheça o SONYTV"
+  },
+  "hero": {
+    "title": "Sobre Nós",
+    "subtitle": "No SONYTV, temos o compromisso de fornecer análises imparciais e relevantes, trazendo ao leitor informação valiosa sobre os melhores gadgets disponíveis. Nossa paixão pela tecnologia nos motiva a explorar cada detalhe dos dispositivos, garantindo que você sempre esteja bem-informado."
+  },
+  "content": "Nós somos apaixonados por tecnologia e dedicamos nosso tempo a trazer as últimas novidades e tendências do mundo dos gadgets. Se você quer saber mais sobre um dispositivo ou precisa de ajuda com suas ferramentas tecnológicas, você está no lugar certo.",
+  "mission": "Nossa missão é capacitar os usuários, fornecendo informações úteis e imparciais para que você possa fazer escolhas informadas ao adquirir novos dispositivos.",
+  "image": "/images/sobre.jpg",
+  "stats": [
+    {
+      "value": "800+",
+      "label": "Tutoriais"
+    },
+    {
+      "value": "150k+",
+      "label": "Leitores"
+    },
+    {
+      "value": "8",
+      "label": "Redatores"
+    }
+  ],
+  "team": []
+}
